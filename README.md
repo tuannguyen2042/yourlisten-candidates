@@ -1,4 +1,6 @@
-Work at yourlisten.com!
+![Yourlisten](logo.jpg)
+
+Work with us!
 =====================
 
 This repo was made to allow candidates to apply for a developer position at  http://www.yourlisten.com
