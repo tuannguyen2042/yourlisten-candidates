@@ -1,9 +1,13 @@
 ## Personal details
 
 Name: 
+
 Country: 
+
 Hourly Rate: 
+
 Timezone: 
+
 Skype Id:
 
 ## Availability
@@ -12,17 +16,25 @@ Are you able to work from 3PM to 7PM (GMT -2) ? In case you aren't, what's your 
  
 ## Tech Skills
 
-Please assing yourself a score in the following technologies:
+Assing yourself a score in the following technologies:
 
 
 Object Oriented Programming (OOP) - 
+
 Git -  
+
 PHP 5 - 
+
 CakePHP framework - 
+
 MySQL -  
+
 Javascript - 
+
 jQuery -  
+
 HTML - 
+
 CSS - 
 
 ## Questions About OOP:
